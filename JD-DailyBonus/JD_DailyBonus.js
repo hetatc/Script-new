@@ -15,7 +15,7 @@
 
 开启抓包app后, Safari浏览器登录 https://bean.m.jd.com 点击签到并且出现签到日历后, 返回抓包app搜索关键字 functionId=signBean 复制请求头Cookie填入以下Key处的单引号内即可 */
 
-var Key = ''; //单引号内自行填写您抓取的Cookie
+var Key = 'shshshfpa=aa6966a4-b605-a5ee-88c3-e01012806dab-1531303151; shshshfpb=0ae387067b18d46a8a22c4430b4f5c401a881bd0094766b755b0e0bb4c; __jdu=19516812; cn=0; pinId=fQujYD13OTQ; pin=hetatc; unick=hetatc; _tp=Wic5JLcJHC9DO52%2BwBdQhw%3D%3D; _pst=hetatc; __jdv=76161171|direct|-|none|-|1586228812375; TrackID=1rnocyRWVGiMu0WhySPhYzcveh4MC5TNTGUV54keD_ueCXQxYyes5jtktwe7s3xex3Td67ZxUhhbtVEgJNMihOlFWYJQyPxmSxMrvnjEcvbY; __jdc=76161171; __jda=76161171.19516812.1570353679.1586228812.1587216531.6; mba_muid=19516812; shshshfp=079ecc27c71cbaa359efc67788a97d3e; shshshsID=84197b9a7264d942e3137b5e0a8433d1_1_1587216534419; 3AB9D23F7A4B3C9B=L4RUE6M7KWKGTAP4L5ZXQFLAYLYFDZW6WHB766GN2ZXDTRDXXGYF6E3HFL77YZDOCI6NDN3KYSJ2EDSGCKV32RK62I; jcap_dvzw_fp=1b0114a1dfc509da77c195825226c3ea$724769332905; TrackerID=9_O0Y0PSispOPxqFhH9p-7BkjL3yfJfFsAxj4p-P_WySKdUMZ51OeR_s5jA0ZpLAcNhBLXlBbA4BIc81O1MRXXyo6gcQJXFgRGtw6sB0WUM; pt_key=AAJemvKiADAQ2tp7-FUIut8g2TxUExw-n-1ZSeetFAGrPUMZqYUUP_CfCY7n96EP1fHPduGAoOM; pt_pin=hetatc; pt_token=35ucnc4z; pwdt_id=hetatc; whwswswws=; mobilev=html5; __jdb=76161171.4.19516812|6.1587216531; mba_sid=15872165316536785141579054812.4; __jd_ref_cls=JDReact_StartReactModule'; //单引号内自行填写您抓取的Cookie
 
 var DualKey = ''; //如需双账号签到,此处单引号内填写抓取的"账号2"Cookie, 否则请勿填写
 
